@@ -79,7 +79,7 @@
               }
             }
           },
-          "dest_geoip" : {
+          "dst_geoip" : {
             "dynamic" : true,
             "properties" : {
               "ip" : {
